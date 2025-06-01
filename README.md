@@ -2,6 +2,6 @@
 
 This application is being developed as Laboratory Activity 4 for the Software Engineering 2 course, part of the BS Computer Science program at UP Visayas (UPV).
 
-The laboratory activity is built using React and Vite.
+The application is built using React and Vite.
 
 Developer: Jullene Rae Arsenal
